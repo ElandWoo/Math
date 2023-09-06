@@ -12,7 +12,6 @@
 #### 1.1 知识点 (8.13.23更新)
 
 目录：[github]
-
 幕布：[幕布](https://www.mubu.com/doc/7Eqhv5lBXWh)
 
 #### 1.2 题型解法 (9.6.23, 增加了多元积分学的部分）
@@ -36,13 +35,11 @@
 ### 3. 常微分方程 5.20.23
 
 目录：[github](https://github.com/ElandWoo/Math/tree/004394edae8e7b356ead1f7e1c706e0017d2616c/Calculus/Equations)
-
 幕布：[幕布](https://www.mubucm.com/doc/6DYfOAFEgRN)
 
 ### 4. 无穷级数 5.13.23
 
 目录：[github](https://github.com/ElandWoo/Math/tree/e71782251bc62920ff537fc06e699235612caf30/Calculus)
-
 幕布：[幕布](https://www.mubucm.com/doc/1DbAfNNxcKN)
 
 
