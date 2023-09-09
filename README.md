@@ -14,11 +14,13 @@
   目录：[积分学]
   幕布：[积分学](https://www.mubu.com/doc/7Eqhv5lBXWh)
 
-#### 1.2 题型解法 (9.6.23, 增加了多元积分学的部分）
+#### 1.2 题型解法 (9.6.23, 增加了多元积分学的部分； 9.9.23 增加一元积分学应用几何部分；）
 
-  幕布：[一元积分学](https://www.mubu.com/doc/1hGvdOlxJ5x)
+  幕布：[一元积分计算](https://www.mubu.com/doc/1hGvdOlxJ5x)
 
-  幕布：[二三重积分](https://www.mubu.com/doc/2v_HLaTD26N)
+  幕布：[一元积分应用](https://www.mubu.com/doc/1vFU3vakdN)
+
+  幕布：[重积分](https://www.mubu.com/doc/2v_HLaTD26N)
 
   幕布：[线面积分](https://www.mubu.com/doc/3biaZm-ix6N)
 
